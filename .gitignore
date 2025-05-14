@@ -5,5 +5,5 @@ columbia_rag_env/
 venv/
 *.csv
 *.txt
-.vscode/
+.vscode
 .DS_Store
